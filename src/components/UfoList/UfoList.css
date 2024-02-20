@@ -1,0 +1,13 @@
+.UfoListUl {
+  border: solid 1px black;
+  width: fit-content;
+  height: fit-content;
+  padding: 1.5rem;
+
+  li {
+    font: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    font-weight: 600;
+    letter-spacing: 0.07rem;
+    color: var(--oxford-blue);
+  }
+}
