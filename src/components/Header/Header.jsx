@@ -1,6 +1,8 @@
+import "../Header/Header.css"
+
 const HeaderComponent = () => {
 
-	return <h1>🍌 Hello World! 🛸</h1>
+	return <h1>🍌 UFOs 🛸</h1>
 
 }
 

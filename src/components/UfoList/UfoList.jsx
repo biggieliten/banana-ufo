@@ -1,4 +1,4 @@
-import "./UfoList.css";
+import "../UfoList/UfoList.css";
 
 const UfoList = () => {
 

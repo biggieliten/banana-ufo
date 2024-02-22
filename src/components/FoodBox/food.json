@@ -1,0 +1,28 @@
+{
+	"data":[
+
+		{
+			"name": "Pasta Carbonara",
+			"type": "Pasta",
+			"Ingredients": ["Spaghetti, ", "Bacon, ", "Egg, ", "Salt, ", "Pepper, "]
+		},
+
+		{
+			"name": "Kebab Pizza",
+			"type": "Pizza",
+			"Ingredients": ["Pizza dough", "Tomato sauce", "Kebab meat", "Kebab sauce"]
+		},
+
+		{
+			"name": "Big Mac",
+			"type": "Burger" ,
+			"Ingredients": ["Burger bun", "Meat patty", "Cheese slice", "Isberg sallado", "Big Mac sauce"]
+		},
+
+		{
+			"name": "Tikka Masala" ,
+			"type": "Indian food" ,
+			"Ingredients": ["Chicken", "Cream", "Paprika", "Tikka masala spices"]
+		}
+	]
+}

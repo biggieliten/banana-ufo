@@ -1,8 +1,13 @@
 import "./Input.css"
 
-const InputComponent = () => {
+const InputComponent = ({style, placeholder, onChange}) => {
 
-	return <div><input type="text/string" placeholder="Input field error" /></div>
+	const handleChange = (event) => {
+		onChange(event.target.value)
+	}
+
+	return <><input className={style} type="text/string" placeholder= {placeholder} onChange={handleChange} />
+	</>
 
 }
 

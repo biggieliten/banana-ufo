@@ -1,2 +1,13 @@
 input {
+  &.inputPrimary {
+    color: var(--shamrock-green);
+  }
+
+  &.inputSecondary {
+    color: var(--persian-orange);
+  }
+
+  &.inputTetriary {
+    color: var(--dark-grey);
+  }
 }

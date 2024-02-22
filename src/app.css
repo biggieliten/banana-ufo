@@ -1,0 +1,23 @@
+#root {
+  height: fit-content;
+  width: fit-content;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  padding: 1.5rem;
+
+  h1 {
+    color: var(--oxford-blue);
+  }
+
+  border: solid 1px rgb(212, 0, 0);
+  border-radius: 1rem;
+}
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
