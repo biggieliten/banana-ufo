@@ -2,24 +2,28 @@
 	"data":[
 
 		{
+			"image": "images/carbonara.jpg",
 			"name": "Pasta Carbonara",
 			"type": "Pasta",
-			"Ingredients": ["Spaghetti, ", "Bacon, ", "Egg, ", "Salt, ", "Pepper, "]
+			"Ingredients": ["Spaghetti, ","Bacon, ", "Egg, ", "Salt, ", "Pepper, "]
 		},
 
 		{
+			"image": "images/kebabpizza.jpg",
 			"name": "Kebab Pizza",
 			"type": "Pizza",
 			"Ingredients": ["Pizza dough", "Tomato sauce", "Kebab meat", "Kebab sauce"]
 		},
 
 		{
+			"image": "images/bigmac.jpg",
 			"name": "Big Mac",
 			"type": "Burger" ,
-			"Ingredients": ["Burger bun", "Meat patty", "Cheese slice", "Isberg sallado", "Big Mac sauce"]
+			"Ingredients": ["Burger bun", "Meat patty", "Cheese slice", "Isberg sallado", "Pickles", "Big Mac sauce"]
 		},
 
 		{
+			"image": "images/tikka.jpg",
 			"name": "Tikka Masala" ,
 			"type": "Indian food" ,
 			"Ingredients": ["Chicken", "Cream", "Paprika", "Tikka masala spices"]
